@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# 👋 Hi there, I am isQ. 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isQHung&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="50%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isQHung&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="50%" /> </br>
+</div>
 <!--
 **isQHung/isQHung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
